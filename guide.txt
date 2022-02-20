@@ -1,0 +1,5 @@
+1: Put any amount of username in username.txt 
+2: put any amount of image in image folder 
+3: put Tokens in tokens.txt (format) --> password:token
+
+Bot automatically assign username and avatar to each and every token So dont worry about that.
